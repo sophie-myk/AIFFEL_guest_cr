@@ -20,7 +20,7 @@ Normal Data 와 Augmented Data를 Base Model에 동일하게 적용해서 성능
 
 ## 4. 실습코드
 
-### A. CNN Base Model
+### A. [CNN Base Model](https://github.com/Mchoon84/AIFFEL_guest_cr/blob/main/MainQuest/Quest03/MainQuest03-1_CNN_BaseModel.ipynb)
 #### (1) Set-up
 #### (2) 데이터 가져오기
 #### (3) 데이터 시각화
@@ -29,7 +29,8 @@ Normal Data 와 Augmented Data를 Base Model에 동일하게 적용해서 성능
 #### (6) 모델 훈련
 #### (7) 결과 확인
 
-### B. 
+### B. Augmented CNN
+### C. ResNet18
 
 
 
