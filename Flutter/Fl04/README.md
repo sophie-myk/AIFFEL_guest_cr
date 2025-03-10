@@ -353,7 +353,6 @@ class _ThirdPageState extends State<ThirdPage> {
           ],
         ),
       ),
-
       body: Center(
         child: Image.asset(
           'assets/images/thirdpage.png',
@@ -372,4 +371,13 @@ class _ThirdPageState extends State<ThirdPage> {
 https://github.com/user-attachments/assets/f367b7b1-2ee4-46cb-adee-07d971b25545
 
 
+
+회고  
+기존에 만들어져있는 사이트를 카피한다는 것이 오히려 힘들다는것을 깨달았다.  
+구조도를 파악하는 것도 처음에 너무 디테일하게 들어가다보니 시간을 많이 썼다.  
+마블 프로그램도 알고나니 쉬웠으나, 처음 쓰는 프로그램이라 어떤 기능들이 있는지 유튜브를 보면서 배워야 했다.  
+그래서 구현하고 싶었던 기능들을 플러터로 구현하는데 시간이 부족했고, 급하게 마무리 하게 되었다.  
+한정된 시간을 잘 계획해서 써야겠다고 다시 다짐했다.  
+
+와이어프레임을 손으로 그렸는데, 좀 더 쉽게 할 수 있는 컴퓨터 프로그램을 찾아야겠다. 
 
